@@ -9,8 +9,8 @@ from pyrogram.enums import MessageEntityType
 from pyrogram.types import Message
 from py_yt import VideosSearch, Playlist
 
-from MadaraMusic import LOGGER
-from MadaraMusic.utils.formatters import time_to_seconds
+from SHUKLAMUSIC import LOGGER
+from SHUKLAMUSIC.utils.formatters import time_to_seconds
 
 
 API_URL = "https://shrutibots.site"
